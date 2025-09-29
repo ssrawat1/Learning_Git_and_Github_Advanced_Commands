@@ -1,1 +1,3 @@
-console.log('Welcome World!');
+(function greet(msg){
+  console.log(msg)
+})("Welcome World!")
